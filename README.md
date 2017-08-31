@@ -8,6 +8,7 @@ by Michael Hartl
 
 For more information, see the
 [Ruby on Rails Tutorial book](http://www.railstutorial.org/book).     
----
+---     
+
 [![Licence MIT](https://img.shields.io/apm/l/vim-mode.svg)](https://opensource.org/licenses/MIT)
 
